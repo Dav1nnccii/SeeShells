@@ -1,10 +1,10 @@
-/*******************************************************
- *  Project Name  : SeeShells
- *  File Name     : MapNetworkDrives.ps1
- *  Author        : Damien Keffyn
- *  Company       : Sentinal IT
- *  Date Created  : 27/09/2024
- *******************************************************/
+# *******************************************************
+# *  Project Name  : SeeShells
+# *  File Name     : MapNetworkDrives.ps1
+# *  Author        : Damien Keffyn
+# *  Company       : Sentinal IT
+# *  Date Created  : 27/09/2024
+# *******************************************************
 
 
 
